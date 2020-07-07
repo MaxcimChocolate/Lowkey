@@ -1,0 +1,11 @@
+Features of smart watch: 
+	
+* Gyroscope sensor 
+* Small LED screen for displaying stats
+* Heart rate 
+* Step rate 
+* Timer 
+* Pace Calculator 
+* Vibration feedback
+* Basic audio output (8-bit sounds)
+* Gyroscope 
